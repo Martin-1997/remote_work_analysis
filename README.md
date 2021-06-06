@@ -3,6 +3,7 @@
 2. [Installation](#Installation)
 3. [Files](#Files)
 4. [Acknowledgements](Acknowledgements)
+5. [Licence](Licence)
 
 # Overview
 This project is part of the Udacity Data Science Nanodegree Course. In this project, data from a StackOverFlow survey is analyzed to answer certain questions regarding remote work. The 3 key questions which are answered based on the data are the following:
@@ -12,6 +13,8 @@ This project is part of the Udacity Data Science Nanodegree Course. In this proj
 - What are the most common ways for companies to search for remote workforce?
 
 The CRISP-DM framework is used.
+
+The associated Medium blog post can be found here: https://martinzeitler.medium.com/how-to-work-remotely-or-how-to-find-your-dream-job-using-statistics-c5b7354fef67
 
 # Installation
 
@@ -30,4 +33,5 @@ I want to express gratitudes for the team at Udacity which provides a great cour
 
 # Licence
 
-The code is available to anybody for personal and commercial use. The used libraries may have there own different licences.
+The code is available to anybody for personal and commercial use with the GNU General Public License v3.0. The used libraries may have there own different licences.
+I do not guarantee for any correctness or timelines of the results. No warranty is provided.
