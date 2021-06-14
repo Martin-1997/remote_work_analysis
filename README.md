@@ -20,7 +20,7 @@ The associated Medium blog post can be found here: https://martinzeitler.medium.
 
 All the files were created using Jupyter Lab and the Python programming language (version 3.8.8). The following Pyhton libraries were used:
 - os
-- pandas 1.2.3
+- pandas 1.2.4
 - seaborn 0.11.1
 
 # Files
