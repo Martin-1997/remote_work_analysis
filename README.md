@@ -5,8 +5,6 @@
 4. [Acknowledgements](Acknowledgements)
 5. [Licence](Licence)
 
-Related Medium article:
-https://martinzeitler.medium.com/how-to-work-remotely-or-how-to-find-your-dream-job-using-statistics-c5b7354fef67
 
 # Overview
 This project is part of the Udacity Data Science Nanodegree Course. In this project, data from a StackOverFlow survey is analyzed to answer certain questions regarding remote work. The 3 key questions which are answered based on the data are the following:
